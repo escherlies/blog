@@ -1,5 +1,4 @@
 # My Personal Blog
 
 
-
-Build with https://www.getzola.org/ and  https://github.com/Speyll/anemone
+Build with [Zola](https://www.getzola.org/) and my modified [Anemone](https://github.com/escherlies/anemone.git) Theme.
