@@ -2,7 +2,7 @@
 title = "Uses"
 +++
 
-<small>Updated 2024-02-03</small>
+<small>Updated 2024-02-05</small>
 
 I'm a full-stack web developer and this is the stuff I use for my  daily work.
 
@@ -15,6 +15,7 @@ I'm a full-stack web developer and this is the stuff I use for my  daily work.
 - [VSCode](https://code.visualstudio.com/) on desktop. Because it just works :P
 - [Neovim](https://neovim.io/) on shell
 - [Fish Shell](https://fishshell.com/)
+- [Justfile](https://github.com/casey/just): Just a better command runner.
 
 ## Hardware
 
