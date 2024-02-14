@@ -20,4 +20,6 @@ The result is documented here:
 
 So, Who will run the 4th generation?
 
-PS: I also used this occasion to publish my first blog post. As they say, start reallyyyyyyyy smallllllllll. (Whoever they are? I think it has something todo woth microhabits or else)
+PS: I also used this occasion to publish my first blog post. As they say, start reallyyyyyyyy smallllllllll. (Whoever they are? I think it has something to do with micro habits or else)
+
+PSS: The title suggests a more profound topic: More creating, less consuming. But more on that later :)
