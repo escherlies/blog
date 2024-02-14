@@ -1,5 +1,5 @@
 dev:
-  zola serve
+  zola serve -O
 
 build:
   zola build
