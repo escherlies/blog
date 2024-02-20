@@ -1,6 +1,6 @@
-+++
-title = "Uses"
-+++
+---
+title: Uses
+---
 
 <small>Updated 2024-02-05</small>
 

@@ -1,6 +1,6 @@
-+++
-title = "What I'm doing now"
-+++
+---
+title: What I'm doing now
+---
 
 <small>Updated 2024-02-03</small>
 

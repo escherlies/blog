@@ -1,6 +1,6 @@
-+++
-title = "Initial Post"
-+++
+---
+title: Initial Post
+---
 
 Hello, world.
 
