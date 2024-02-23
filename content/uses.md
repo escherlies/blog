@@ -23,7 +23,7 @@ I'm a full-stack web developer and this is the stuff I use for my  daily work.
 ## System Hardware
 
 - MacBook Pro M1 Max, 32GB, 1TB
-- Nyquist Split-Keyboard by [Keebio](https://keeb.io/collections/nyquist-keyboard-collection), with Big Bang 2.0 keycaps. Honestly, the best thing of a split keyboard is that I can put a bowl or plate of food in the middle.
+- Nyquist Split-Keyboard by [Keebio](https://keeb.io/collections/nyquist-keyboard-collection), with Big Bang 2.0 keycaps.
 
 ## Stack & Languages
 
