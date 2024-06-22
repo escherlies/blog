@@ -2,16 +2,16 @@
 title: What I'm doing now
 ---
 
-<small>Updated 2024-02-03</small>
+<small>Updated 2024-06-22</small>
 
-Right now im setting up this blog, after reading this article [The Web is Fantastic](https://rknight.me/blog/the-web-is-fantastic/) by Robb Knight.
+I am testing 
 
-## Projects I'm working on
+🦕 [Deno](https://deno.land/)
 
-- [HyHyve](https://www.hyhyve.com/): A virtual interactive meeting plattform
-- [BITCOIN4GOOD](https://bitcoin4good.de/): Helping NGOs to use Bitcoin as donation infrastructure
-
+and thus far am pretty excited about it. (It's realy fast 😳)
 
 ## Now?
 
 This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.
+
+Also a good read: [The Web is Fantastic](https://rknight.me/blog/the-web-is-fantastic/)
