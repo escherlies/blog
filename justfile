@@ -21,3 +21,4 @@ new_post title:
   FILENAME="content/blog/${DATE}-{{title}}.md"
   echo -e "---\ntitle: {{title}}\ndate: ${DATE}\n---\n" > $FILENAME
   echo "New post created at $FILENAME"
+  code $FILENAME
