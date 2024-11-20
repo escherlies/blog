@@ -1,7 +1,7 @@
 ---
-title: TIL: Creating Deep Links for Microsoft Teams Tabs with @microsoft/teams-js
+title: "TIL: Creating Deep Links for Microsoft Teams Tabs with @microsoft/teams-js"
 date: 2024-07-11
-tags: til
+tags: ["TIL"]
 ---
 
 **TIL**: Generating deep links to specific tabs in Microsoft Teams apps using the Teams JavaScript SDK.
