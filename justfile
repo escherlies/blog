@@ -6,6 +6,7 @@ build:
 
 deploy:
   zola build
+  hcloud context use dev
   rsync -rvP --delete public/ root@$(hcloud server ip nixe):/var/www/blog
 
 install:
