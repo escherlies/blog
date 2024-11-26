@@ -6,6 +6,8 @@ compile_sass = false # Whether to automatically compile all Sass files in the sa
 
 minify_html = true
 
+generate_feeds = true
+
 taxonomies = [{name = "tags", feed = true}]
 
 theme = "anemone"
