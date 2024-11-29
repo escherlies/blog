@@ -1,28 +1,25 @@
----
-title: "TIL: Creating Deep Links for Microsoft Teams Tabs with @microsoft/teams-js"
-date: 2024-07-11
-tags: ["TIL"]
----
++++
+title = "TIL: Creating Deep Links for Microsoft Teams Tabs with @microsoft/teams-js"
+date = 2024-07-11
+tags = ["TIL"]
++++
 
 **TIL**: Generating deep links to specific tabs in Microsoft Teams apps using the Teams JavaScript SDK.
 
 Steps
-1.	Fetch Context: Retrieve entityId and channelId using app.getContext().
-2.	Get Tab Info: Use pages.tabs.getTabInstances() to get the appId of the tab.
-3.	Build Context: Create a context object with the subEntityId and other parameters.
-4.	Construct URL: Combine the appId, entityId, and context into the required Teams deep link format.
+1. Fetch Context: Retrieve entityId and channelId using app.getContext().
+2. Get Tab Info: Use pages.tabs.getTabInstances() to get the appId of the tab.
+3. Build Context: Create a context object with the subEntityId and other parameters.
+4. Construct URL: Combine the appId, entityId, and context into the required Teams deep link format.
 
 # Resources
 
-
-https://learn.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/deep-link-application?tabs=teamsjs-v2#configure-deep-link-to-browse-within-your-app-manually
-
+[Deep Link Documentation](https://learn.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/deep-link-application?tabs=teamsjs-v2#configure-deep-link-to-browse-within-your-app-manually)
 
 # Code
 
 ```ts
 import { app, pages } from "@microsoft/teams-js"
-
 
 /**
  * Generates a deep link to a specific tab within a Microsoft Teams application.
@@ -56,6 +53,4 @@ export async function getTeamsAppDeepLink(subEntityId?: string): Promise<string>
 
   return `https://teams.microsoft.com/l/entity/${appId}/${entityId}?context=${context}`
 }
-
-```
 

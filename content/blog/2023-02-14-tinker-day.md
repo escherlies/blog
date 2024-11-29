@@ -1,7 +1,7 @@
----
-title: Tinker Day, not Valentines Day!
-date: 2023-02-14
----
++++
+title = "Tinker Day, not Valentines Day!"
+date = 2023-02-14
++++
 
 Today [pinpox](https://github.com/pinpox) posted this fun game called [https://neal.fun/infinite-craft/](https://neal.fun/infinite-craft/) into our group chat with the message "here you go, so that you don't get anything productive done today either".
 

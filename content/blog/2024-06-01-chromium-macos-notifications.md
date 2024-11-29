@@ -1,7 +1,7 @@
----
-title: The Problem with Notifications on Chromium-Based Browsers on macOS
-date: 2024-06-01
----
++++
+title = "The Problem with Notifications on Chromium-Based Browsers on macOS"
+date = "2024-06-01"
++++
 
 If you're a web developer working with notifications on Chromium-based browsers on macOS, you might have encountered some puzzling behavior. Specifically, when trying to display notifications with `requireInteraction = true`, you might find that no notifications appear unless certain conditions are met. Here’s what’s going on:
 
